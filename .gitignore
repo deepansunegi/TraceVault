@@ -1,0 +1,7 @@
+tracevault
+test_sha256
+*.o
+data/evidence.db
+data/audit.log
+data/report.txt
+.vscode/
